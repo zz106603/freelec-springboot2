@@ -1,6 +1,5 @@
 package com.yunhwan.book.springboot.config.auth.dto;
 
-import com.sun.corba.se.spi.ior.ObjectKey;
 import com.yunhwan.book.springboot.domain.user.Role;
 import com.yunhwan.book.springboot.domain.user.User;
 import lombok.Builder;
